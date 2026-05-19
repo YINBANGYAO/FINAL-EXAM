@@ -1,0 +1,3 @@
+query_type,row_count,sensor_type_filter,year_filter,month_filter,day_filter,execution_seconds,speedup_factor
+full_scan,300,"","","","",0.1193,""
+partition_pruned,97,humidity,2026,5,19,0.0963,1.24
